@@ -1,0 +1,17 @@
+
+public class Maths {
+	int result;
+	void addition() {
+		
+	}
+	void substraction() {
+		
+	}
+	int Multiplication() {
+		
+	}
+	int division() {
+		
+	}
+
+}

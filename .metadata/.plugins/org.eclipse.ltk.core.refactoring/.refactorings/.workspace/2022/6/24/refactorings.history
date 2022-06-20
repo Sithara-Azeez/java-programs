@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;ifsample&apos; to &apos;Function sample with Argmt and return value&apos;&#x0D;&#x0A;- Original element: &apos;ifsample&apos;&#x0D;&#x0A;- Renamed element: &apos;ifsample&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;ifsample&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=ifsample" name="Function sample with Argmt and return value" references="true" stamp="1654421709378" version="1.0"/>
+</session>
