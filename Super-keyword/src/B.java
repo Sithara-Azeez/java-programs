@@ -6,6 +6,10 @@ public class B extends A {
 		
 		System.out.println("its B constructor");
 	}
+	B(int a){
+		super(10);
+		System.out.println("Argument constructor of B");
+	}
 	
 	void display() {
 		super.display();
