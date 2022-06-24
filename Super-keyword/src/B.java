@@ -2,13 +2,16 @@
 public class B extends A {
 	int a;
 	
+	B(){               //Super key using inside constructor   
+		
+		System.out.println("its B constructor");
+	}
+	
 	void display() {
 		super.display();
 		System.out.println("its B");
-		
-		
 	
-	}
+		}
 	
 	void baseDisplay() {
 		super.display();
@@ -24,7 +27,8 @@ public class B extends A {
 	public static void main(String[] args) {
 		B b=new B();
 		//b.display();
-		b.baseDisplay();
-		b.result();
+		
+		/*b.baseDisplay();
+		b.result(); */
 	}
 }
